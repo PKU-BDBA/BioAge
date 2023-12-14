@@ -1,4 +1,4 @@
-# Multimodal Image Classification Model
+# Multimodal Bioage Prediction
 
 This repository contains the implementation of a multimodal image classification model that uses Swin Transformers for feature extraction from different types of images (e.g., face, tongue, and fundus) and a cross-attention mechanism to integrate features for final classification.
 
